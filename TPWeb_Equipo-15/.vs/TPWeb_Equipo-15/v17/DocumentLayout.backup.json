@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\",
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb.csproj|c:\\users\\dream\\desktop\\tpwebprogra3\\tp-web-equipo-15a\\tpweb_equipo-15\\tpweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb.csproj|solutionrelative:tpweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{72AAC628-1886-4426-842F-23D96F214EA3}|Dominio\\Dominio.csproj|c:\\users\\usuario\\desktop\\tp-web-equipo-15a\\tpweb_equipo-15\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC628-1886-4426-842F-23D96F214EA3}|Dominio\\Dominio.csproj|solutionrelative:dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|c:\\users\\dream\\desktop\\tpwebprogra3\\tp-web-equipo-15a\\tpweb_equipo-15\\tpweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|solutionrelative:tpweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb.csproj|c:\\users\\dream\\desktop\\tpwebprogra3\\tp-web-equipo-15a\\tpweb_equipo-15\\tpweb\\mainpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb.csproj|solutionrelative:tpweb\\mainpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|c:\\users\\dream\\desktop\\tpwebprogra3\\tp-web-equipo-15a\\tpweb_equipo-15\\tpweb\\mainpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|solutionrelative:tpweb\\mainpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|c:\\users\\dream\\desktop\\tpwebprogra3\\tp-web-equipo-15a\\tpweb_equipo-15\\tpweb\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|solutionrelative:tpweb\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|c:\\users\\usuario\\desktop\\tp-web-equipo-15a\\tpweb_equipo-15\\tpweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|solutionrelative:tpweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,75 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\Dominio\\Voucher.cs",
+              "RelativeDocumentMoniker": "Dominio\\Voucher.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\Dominio\\Voucher.cs",
+              "RelativeToolTip": "Dominio\\Voucher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:10:25.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "tpweb\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Default.aspx.cs",
-              "RelativeToolTip": "tpweb\\Default.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:58:35.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainPage.Master.cs",
-              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\MainPage.Master.cs",
-              "RelativeDocumentMoniker": "tpweb\\MainPage.Master.cs",
-              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\MainPage.Master.cs",
-              "RelativeToolTip": "tpweb\\MainPage.Master.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:56:02.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Default.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Default.aspx.designer.cs",
-              "RelativeDocumentMoniker": "tpweb\\Default.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Default.aspx.designer.cs*",
-              "RelativeToolTip": "tpweb\\Default.aspx.designer.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:54:21.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainPage.Master",
-              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\MainPage.Master",
-              "RelativeDocumentMoniker": "tpweb\\MainPage.Master",
-              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\MainPage.Master",
-              "RelativeToolTip": "tpweb\\MainPage.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-29T17:51:19.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Default.aspx",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Default.aspx",
               "RelativeDocumentMoniker": "tpweb\\Default.aspx",
-              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Default.aspx",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Default.aspx",
               "RelativeToolTip": "tpweb\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",

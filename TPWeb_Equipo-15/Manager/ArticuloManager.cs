@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Dominio;
 
 namespace Manager
 {
-    public class Class1
+    internal class ArticuloManager
     {
+        //falta hacer categoria para hacer esto
     }
 }

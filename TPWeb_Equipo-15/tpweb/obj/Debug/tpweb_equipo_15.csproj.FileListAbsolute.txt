@@ -120,3 +120,7 @@ C:\Users\usuario\Desktop\tp-Web-Equipo-15A\TPWeb_Equipo-15\tpweb\bin\Dominio.dll
 C:\Users\usuario\Desktop\tp-Web-Equipo-15A\TPWeb_Equipo-15\tpweb\bin\Manager.dll
 C:\Users\usuario\Desktop\tp-Web-Equipo-15A\TPWeb_Equipo-15\tpweb\bin\Dominio.pdb
 C:\Users\usuario\Desktop\tp-Web-Equipo-15A\TPWeb_Equipo-15\tpweb\bin\Manager.pdb
+C:\Users\dream\Desktop\tpWebProgra3\tp-Web-Equipo-15A\TPWeb_Equipo-15\tpweb\bin\Dominio.dll
+C:\Users\dream\Desktop\tpWebProgra3\tp-Web-Equipo-15A\TPWeb_Equipo-15\tpweb\bin\Manager.dll
+C:\Users\dream\Desktop\tpWebProgra3\tp-Web-Equipo-15A\TPWeb_Equipo-15\tpweb\bin\Dominio.pdb
+C:\Users\dream\Desktop\tpWebProgra3\tp-Web-Equipo-15A\TPWeb_Equipo-15\tpweb\bin\Manager.pdb

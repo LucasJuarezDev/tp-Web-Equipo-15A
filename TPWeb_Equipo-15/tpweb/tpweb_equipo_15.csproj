@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="GraciasPorParticipar.aspx" />
     <Content Include="Premios.aspx" />
     <Content Include="Registro.aspx" />
     <Content Include="Web.config" />
@@ -84,6 +85,13 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="GraciasPorParticipar.aspx.cs">
+      <DependentUpon>GraciasPorParticipar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GraciasPorParticipar.aspx.designer.cs">
+      <DependentUpon>GraciasPorParticipar.aspx</DependentUpon>
     </Compile>
     <Compile Include="MainPage.Master.cs">
       <DependentUpon>MainPage.Master</DependentUpon>

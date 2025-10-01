@@ -65,7 +65,16 @@ namespace tpweb_equipo_15
 
         protected void btnYoTeElijo_Command(object sender, CommandEventArgs e)
         {
-            //me quedo por hacer la logica 
+            ImagenManager managerImagenes = new ImagenManager();
+
+            // Obtener el ID del artículo
+            int IdArticulo = Convert.ToInt32(e.CommandArgument);
+            Imagen imagenArtSeleccionado = managerImagenes.BuscarImagen(IdArticulo);
+
+            Session.Add("IdArticulo", IdArticulo);
+            Session.Add("UrlImagen", imagenArtSeleccionado.ImagenUrl);
+
+            Response.Redirect("~/Registro.aspx");
         }
 
         public class ArticuloConImagenes

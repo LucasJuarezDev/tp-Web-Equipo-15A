@@ -7,7 +7,7 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace tpweb
+namespace tpweb_equipo_15
 {
 
 

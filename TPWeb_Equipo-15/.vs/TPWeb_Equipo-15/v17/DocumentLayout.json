@@ -1,17 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (3)\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\",
+  "WorkspaceRootPath": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|c:\\users\\usuario\\desktop\\nueva carpeta (3)\\tp-web-equipo-15a\\tpweb_equipo-15\\tpweb\\premios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|c:\\users\\dream\\desktop\\tpwebprogra3\\tp-web-equipo-15a\\tpweb_equipo-15\\tpweb\\premios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|solutionrelative:tpweb\\premios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|C:\\Users\\usuario\\Desktop\\Nueva carpeta (3)\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\premios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|c:\\users\\dream\\desktop\\tpwebprogra3\\tp-web-equipo-15a\\tpweb_equipo-15\\tpweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|solutionrelative:tpweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|c:\\users\\dream\\desktop\\tpwebprogra3\\tp-web-equipo-15a\\tpweb_equipo-15\\tpweb\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|solutionrelative:tpweb\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459C0D2F-3199-45DE-9865-D235458D7334}|Manager\\Manager.csproj|c:\\users\\dream\\desktop\\tpwebprogra3\\tp-web-equipo-15a\\tpweb_equipo-15\\manager\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459C0D2F-3199-45DE-9865-D235458D7334}|Manager\\Manager.csproj|solutionrelative:manager\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459C0D2F-3199-45DE-9865-D235458D7334}|Manager\\Manager.csproj|c:\\users\\dream\\desktop\\tpwebprogra3\\tp-web-equipo-15a\\tpweb_equipo-15\\manager\\articulomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459C0D2F-3199-45DE-9865-D235458D7334}|Manager\\Manager.csproj|solutionrelative:manager\\articulomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|c:\\users\\dream\\desktop\\tpwebprogra3\\tp-web-equipo-15a\\tpweb_equipo-15\\tpweb\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|solutionrelative:tpweb\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\premios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|solutionrelative:tpweb\\premios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|C:\\Users\\usuario\\Desktop\\Nueva carpeta (3)\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\premios.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|c:\\users\\dream\\desktop\\tpwebprogra3\\tp-web-equipo-15a\\tpweb_equipo-15\\tpweb\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|solutionrelative:tpweb\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\premios.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB712B2A-77E4-4BDC-ABEC-9742A660DFCB}|tpweb\\tpweb_equipo_15.csproj|solutionrelative:tpweb\\premios.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,44 +46,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "tpweb\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Default.aspx.cs",
+              "RelativeToolTip": "tpweb\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:24:20.68Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Registro.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Registro.aspx.cs",
+              "RelativeDocumentMoniker": "tpweb\\Registro.aspx.cs",
+              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Registro.aspx.cs",
+              "RelativeToolTip": "tpweb\\Registro.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:22:09.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\Manager\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Manager\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\Manager\\AccesoDatos.cs",
+              "RelativeToolTip": "Manager\\AccesoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:18:37.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticuloManager.cs",
+              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\Manager\\ArticuloManager.cs",
+              "RelativeDocumentMoniker": "Manager\\ArticuloManager.cs",
+              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\Manager\\ArticuloManager.cs",
+              "RelativeToolTip": "Manager\\ArticuloManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:18:16.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.aspx",
+              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Error.aspx",
+              "RelativeDocumentMoniker": "tpweb\\Error.aspx",
+              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Error.aspx",
+              "RelativeToolTip": "tpweb\\Error.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-01T14:17:17.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registro.aspx",
+              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Registro.aspx",
+              "RelativeDocumentMoniker": "tpweb\\Registro.aspx",
+              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Registro.aspx",
+              "RelativeToolTip": "tpweb\\Registro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-01T14:16:02.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Premios.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (3)\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Premios.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Premios.aspx.designer.cs",
               "RelativeDocumentMoniker": "tpweb\\Premios.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (3)\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Premios.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Premios.aspx.designer.cs",
               "RelativeToolTip": "tpweb\\Premios.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T22:46:52.882Z"
+              "WhenOpened": "2025-09-30T22:46:52.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Premios.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (3)\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Premios.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Premios.aspx.cs",
               "RelativeDocumentMoniker": "tpweb\\Premios.aspx.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (3)\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Premios.aspx.cs",
+              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Premios.aspx.cs",
               "RelativeToolTip": "tpweb\\Premios.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEMAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwD8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T22:45:25.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Premios.aspx",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (3)\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Premios.aspx",
+              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Premios.aspx",
               "RelativeDocumentMoniker": "tpweb\\Premios.aspx",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (3)\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Premios.aspx",
+              "ToolTip": "C:\\Users\\dream\\Desktop\\tpWebProgra3\\tp-Web-Equipo-15A\\TPWeb_Equipo-15\\tpweb\\Premios.aspx",
               "RelativeToolTip": "tpweb\\Premios.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-30T22:45:15.927Z"
+              "WhenOpened": "2025-09-30T22:45:15.927Z",
+              "EditorCaption": ""
             }
           ]
         }

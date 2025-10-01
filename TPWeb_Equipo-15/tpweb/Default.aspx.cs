@@ -11,7 +11,6 @@ namespace tpweb_equipo_15
 {
     public partial class Default : System.Web.UI.Page
     {
-        string msgStatus = "hola que tal";
 
         protected void Page_Load(object sender, EventArgs e)
         {

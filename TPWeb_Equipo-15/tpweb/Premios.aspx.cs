@@ -7,7 +7,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace tpweb
+namespace tpweb_equipo_15
 {
     public partial class Premios : System.Web.UI.Page
     {
